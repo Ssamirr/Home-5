@@ -172,6 +172,11 @@ header{
     padding: 0 !important;
     margin: 0 !important;
 }
+.imgstyle{
+    object-fit: cover;
+    width: 370px;
+    height: 370px;
+}
 .div-under-header{
     display: -webkit-box;
     display: -ms-flexbox;
